@@ -4,6 +4,9 @@ Endless Flappy Bird Clone
 
 Build an endless Flappy Bird–style game that is fully playable, polished, and your own version — NOT A COPY AND PASTE CLONE
 
+You can use the tutorial provided below to get into the engine fundamentals
+https://youtu.be/ihvBiJ1oC9U?si=R1oaIe8YAOrp0PcN
+
 ⚠️ You may reference tutorials, but copying an entire tutorial project is not allowed.
 **
 ✅ Mandatory Requirements (Must Have)**
@@ -58,3 +61,4 @@ Death
 Simple animation or visual feedback
 
 Extra points will be awraded for creativity, Think ooutside the box Go crazy!!
+
