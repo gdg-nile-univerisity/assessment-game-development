@@ -20,4 +20,25 @@ The club also partners with the **Google Developer Student Clubs (GDSC)** networ
 
 Whether you’re a **beginner** curious about how games are made or an **experienced developer** looking to collaborate on ambitious projects, **Game Dev Unit (GDSC)** is the place where imagination meets technology.
 
+The Grading System (100 Points Total)
+Each task is graded out of 100 points, broken down into two main categories:
+
+A. Technical Implementation & Functionality (60 Points)
+Core Requirements Met (25 pts): Does the submitted project do what was asked?
+
+Code Quality & Architecture (20 pts): Is the code clean, well-structured, and scalable?
+
+Error Handling & Robustness (10 pts): Does it handle edge cases gracefully?
+
+Performance & Optimization (5 pts): Is it efficient? (FPS, memory, etc.)
+
+B. GitHub & Development Process (40 Points)
+Commit History (15 pts): Small, logical, and descriptive commits.
+
+Branching & Pull Requests (10 pts): Use of feature branches and clear PR descriptions.
+
+Use of Issues/Project Board (10 pts): Breaking down the task into manageable parts.
+
+README & Documentation (5 pts): Clear setup and project explanation.
+
 
