@@ -3,6 +3,30 @@
 
 ### 🎮 Game Dev Unit (GDSC)
 
+## 🚀 Skill Check – Mandatory Registration & Timeline
+
+### 🔗 Registration (Required)
+**All students must register before attempting the code challenge.**  
+👉 **Microsoft Form Registration Link:**  
+https://forms.office.com/r/NgQvXsT3JE
+
+---
+
+### 🗓️ Important Dates
+- **Jan 28:** Final Submission Deadline (Code + Documentation)
+- **Jan 29 – Jan 31:** Review Period  
+  *(Technical Review, Peer Review, and Grading)*
+
+---
+
+### 📩 Contact Information
+For any questions or clarifications, please contact:  
+- **Unit Head:** Francis Edosa
+- **Phone / WhatsApp :** +234 906 560 4228
+
+---
+#### Overview
+
 **Game Dev Unit (GDSC)** is a creative and technical community of passionate students and developers dedicated to exploring the world of **game development and interactive design**. The club provides a collaborative space where members can learn, build, and share knowledge about creating games using modern tools and technologies such as **Unity, Unreal Engine, Blender, and Godot**.
 
 At GDSC, we believe that games are more than just entertainment — they are a form of art, storytelling, and innovation. Our members work together on projects that blend **creativity, programming, 3D modeling, animation, and sound design** to bring ideas to life.
@@ -21,3 +45,4 @@ The club also partners with the **Google Developer Student Clubs (GDSC)** networ
 Whether you’re a **beginner** curious about how games are made or an **experienced developer** looking to collaborate on ambitious projects, **Game Dev Unit (GDSC)** is the place where imagination meets technology.
 
  
+
