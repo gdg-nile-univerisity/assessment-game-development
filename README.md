@@ -10,6 +10,7 @@
 👉 **Microsoft Form Registration Link:**  
 https://forms.office.com/r/NgQvXsT3JE
 
+For assessment related inquiries: https://chat.whatsapp.com/H1F8cG0NrnZHKPRn19VgCi
 ---
 
 ### 🗓️ Important Dates
@@ -45,4 +46,5 @@ The club also partners with the **Google Developer Student Clubs (GDSC)** networ
 Whether you’re a **beginner** curious about how games are made or an **experienced developer** looking to collaborate on ambitious projects, **Game Dev Unit (GDSC)** is the place where imagination meets technology.
 
  
+
 
